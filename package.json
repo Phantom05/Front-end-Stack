@@ -1,0 +1,26 @@
+{
+  "name": "frontrefo",
+  "version": "1.0.0",
+  "description": "Front-End-Developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "Full-Stack-Info"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phantom05/Front-end-Stack.git"
+  },
+  "keywords": [
+    "Hello",
+    "world"
+  ],
+  "author": "phantom05",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phantom05/Front-end-Stack/issues"
+  },
+  "homepage": "https://github.com/Phantom05/Front-end-Stack#readme",
+  "dependencies": {
+    "babel-preset-latest": "^6.24.1"
+  }
+}
