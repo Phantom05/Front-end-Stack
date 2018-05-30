@@ -35,8 +35,8 @@
 + [BEM 공식][23]
 
 ## 정규표현식
-+ [https://regexr.com/][32]
-+ [https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/%EC%A0%95%EA%B7%9C%EC%8B%9D][34]
++ [정규 표현식 실전 사이트][32]
++ [정규표현식 모질라][34]
 
 
 
