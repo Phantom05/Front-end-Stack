@@ -35,6 +35,10 @@
 + [BEM 공식][23]
 
 ## 정규표현식
++ [https://regexr.com/][32]
++ [https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/%EC%A0%95%EA%B7%9C%EC%8B%9D][34]
+
+
 
 
 ## 기타자료
@@ -94,3 +98,8 @@
 [30]:https://brunch.co.kr/@matthew-chang/32
 
 [31]:https://brunch.co.kr/@imagineer/198
+
+[32]:https://regexr.com/
+
+[34]:https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/%EC%A0%95%EA%B7%9C%EC%8B%9D
+
